@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="185e0dbd-5e16-433f-8652-5691307ed831" name="변경" comment="5.5?">
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/CommonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/CommentRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/CommetResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/LoginRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/SignupRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/TodoRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/entity/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/entity/UserRoleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/jwt/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/repository/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/service/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/service/UserSerivce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sparta/todo/TodoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/controller/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/TodoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/dto/TodoResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/entity/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/main/java/com/sparta/todo/entity/Todo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="todoApp" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Seokhyeonh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Seokhyeonh/todo",
+    "accountId": "b36f55b7-69ad-4e1e-a422-09b8671a7e4c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2h2c3dAYOU8588EOEVALnlq4byx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Todo 빌드.executor": "Run",
+    "Gradle.todoApp-master 빌드.executor": "Run",
+    "Gradle.소스 다운로드.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TodoAppApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tjrgu/OneDrive/바탕 화면/스파르타/Todo/todo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.thesun4sky.todoapp.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TodoAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="todoApp.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.thesun4sky.todoapp.TodoAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="185e0dbd-5e16-433f-8652-5691307ed831" name="변경" comment="" />
+      <created>1716795416304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716795416304</updated>
+      <workItem from="1716795418218" duration="44000" />
+      <workItem from="1716946567970" duration="3882000" />
+      <workItem from="1717029460301" duration="37816000" />
+      <workItem from="1717113535680" duration="18014000" />
+      <workItem from="1717145887545" duration="1585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
